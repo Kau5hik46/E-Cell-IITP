@@ -5,4 +5,5 @@ All the current and previous design elements in one place for easier collaborati
 
 1) Christmas and New Year Wishes Post
 2) E cell Logo redesign
+3 ) Someother new project to be completed 
 
