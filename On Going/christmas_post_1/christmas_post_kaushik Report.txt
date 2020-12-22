@@ -1,0 +1,46 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: christmas_post_kaushik.ai
+Color Mode: RGB color
+Color Profile: none
+Ruler Units: pixels
+Artboard Dimensions: 900 px x 800 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+BuddyBear (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Volumes/Others/E Cell/On Going/christmas_post/Links/e club logo (2).psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2818K, 792 by 911 pixels
+Dimensions: 60.251 by 69.302 points 
+Resolution: 946.435 by 946.468 pixels per inch

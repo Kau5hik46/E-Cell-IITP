@@ -1,0 +1,48 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: christmas_post.ai
+Color Mode: RGB color
+Color Profile: none
+Ruler Units: pixels
+Artboard Dimensions: 972.1247 px x 800 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Myriad Pro (OTF)
+Roboto (TrueType)
+Roboto Light (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\Charishma\Downloads\e club logo (2).psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2818K, 792 by 911 pixels
+Dimensions: 84.48 by 97.17 points 
+Resolution: 675 by 675.023 pixels per inch
