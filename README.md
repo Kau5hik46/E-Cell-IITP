@@ -3,6 +3,6 @@ All the current and previous design elements in one place for easier collaborati
 
 #Current Projects:
 
-1) Connecting Infinities event poster 
-   - first draft created and pushed into 'connecting_infinities' branch. (by charishma)
+1) E cell Logo Redesign
+2) E cell Journey Video
 
